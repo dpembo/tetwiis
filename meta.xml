@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="0.3">
+	<name>Tetwiis</name>
+	<version>1.1</version>
+        <release_date>201009122330</release_date>
+	<coder>Pembo</coder>
+	<short_description>Wii Tetris</short_description>
+	<long_description>
+TetWiis - A Nintendo WII Tetris Clone, shamelessly based on the Nintendo DS version of Tetris.
+
+Every ten lines you clear increases the level, which increases the speed at which the blocks drop.
+You'll score more points by clearing 2,3 or 4 lines at a time, or even going for the dangerous back2back clearance of 4 lines (clearing 8 in successive drops!)
+
+Wiimote Controls
+-----------------------------
+Use the pointer and 'A' in the menu screens to change the options and start/exit the game.
+In game, you'll need to use the wiimote in a horizontal position with the d-pad on the left.  
+
+The controls are then as follows:
+
+left  - move block left one square
+right - move block right one square
+down  - move block down quickly
+up    - Immediately Drop the block into place
+1     - Rotate the block anticlockwise
+2     - Rotate the block clockwise
+A     - Hold a piece/swap with one already held
+Home  - Pause the game
+
+Classic Controller Controls
+-----------------------------
+Press START to start the game in the menu, SELECT for options, HOME to exit.
+In the options screen, use a/b and x/y to alter the volumes and HOME to return to the menu
+
+In game The controls are:
+
+left  - move block left one square
+right - move block right one square
+down  - move block down quickly
+up    - Immediately Drop the block into place
+a     - Rotate the block clockwise
+b     - Rotate the block anticlockwise
+R     - Hold a piece/swap with one already held
+Home  - Pause the game
+
+-----------------------------
+
+For development information about TetWiis, and to provide feedback or report issues, please see: 
+
+http://www.pembo.co.uk
+
+-----------------------------
+</long_description>
+</app>
