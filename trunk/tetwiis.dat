@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> <tetwiis> <settings> <music
+volume="250" /> <effects volume="250" /> </settings> <scores> <score
+name="AAA" score="1000" validation="0000423000000000000000028079" /> <score
+name="AAA" score="900" validation="0000423000000000000000025279" /> <score
+name="AAA" score="800" validation="0000423000000000000000022479" /> <score
+name="AAA" score="700" validation="0000423000000000000000019679" /> <score
+name="AAA" score="600" validation="0000423000000000000000016879" /> <score
+name="AAA" score="500" validation="0000423000000000000000014079" /> <score
+name="AAA" score="400" validation="0000423000000000000000011279" /> <score
+name="AAA" score="300" validation="0000423000000000000000008479" /> <score
+name="AAA" score="200" validation="0000423000000000000000005679" /> <score
+name="AAA" score="100" validation="0000423000000000000000002879" /> </scores>
+</tetwiis>
